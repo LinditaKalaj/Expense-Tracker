@@ -1,8 +1,10 @@
+import Expenses from "./components/Expenses/Expenses";
+import expenses from "./expenses";
+
 function App() {
   return (
     <div>
-      <h2>Let's get started!</h2>
-      <p>Hello</p>
+      <Expenses expensesArr = {expenses} />
     </div>
   );
 }
