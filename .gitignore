@@ -1,5 +1,5 @@
 node_modules/
-package.txt
-package-lock.txt
+package.json
+package-lock.json
 
 node_modules
