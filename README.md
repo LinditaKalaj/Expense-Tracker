@@ -1,5 +1,6 @@
 ﻿# ExpenseTracker
 Simple expense Tracker app written in react for practice and learning.
+
 The topics implemented in this project are:
 
 * Components & Organizing/Structuring Components
